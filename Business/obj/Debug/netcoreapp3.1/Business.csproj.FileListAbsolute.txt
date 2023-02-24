@@ -13,3 +13,5 @@ C:\Users\sayit\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\Entiti
 C:\Users\sayit\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\DataAccess.pdb
 C:\Users\sayit\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\Entities.pdb
 C:\Users\sayit\source\repos\FinalProject\Business\obj\Debug\netcoreapp3.1\Business.csproj.CopyComplete
+C:\Users\sayit\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\sayit\source\repos\FinalProject\Business\bin\Debug\netcoreapp3.1\Core.pdb
